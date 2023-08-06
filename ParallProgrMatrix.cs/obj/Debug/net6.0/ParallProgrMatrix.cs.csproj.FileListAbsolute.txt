@@ -1,0 +1,15 @@
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\bin\Debug\net6.0\ParallProgrMatrix.cs.exe
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\bin\Debug\net6.0\ParallProgrMatrix.cs.deps.json
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\bin\Debug\net6.0\ParallProgrMatrix.cs.runtimeconfig.json
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\bin\Debug\net6.0\ParallProgrMatrix.cs.dll
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\bin\Debug\net6.0\ParallProgrMatrix.cs.pdb
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.csproj.AssemblyReference.cache
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.AssemblyInfoInputs.cache
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.AssemblyInfo.cs
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.csproj.CoreCompileInputs.cache
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.dll
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\refint\ParallProgrMatrix.cs.dll
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.pdb
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ParallProgrMatrix.cs.genruntimeconfig.cache
+C:\Users\ramiz\OneDrive\Masaüstü\GEEK BRAINS\BootCamp\ParallProgrMatrix.cs\obj\Debug\net6.0\ref\ParallProgrMatrix.cs.dll
