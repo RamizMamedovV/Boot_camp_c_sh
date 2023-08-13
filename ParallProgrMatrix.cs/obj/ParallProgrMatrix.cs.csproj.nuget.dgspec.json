@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj": {}
+    "c:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj": {
+    "c:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj",
+        "projectUniqueName": "c:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj",
         "projectName": "ParallProgrMatrix.cs",
-        "projectPath": "C:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj",
+        "projectPath": "c:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\ParallProgrMatrix.cs.csproj",
         "packagesPath": "C:\\Users\\ramiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\obj\\",
+        "outputPath": "c:\\Users\\ramiz\\OneDrive\\Masaüstü\\GEEK BRAINS\\BootCamp\\ParallProgrMatrix.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramiz\\AppData\\Roaming\\NuGet\\NuGet.Config"
