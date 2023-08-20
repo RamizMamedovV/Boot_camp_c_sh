@@ -18,7 +18,7 @@ using Newtonsoft.Json.Linq;
 //     }
 // }
 
-                            // скачивать данные из интернета
+              // скачивать данные из интернета используя "using System.Net.Http;"
 // HttpClient hc = new();
 // string contentObj = hc.GetStringAsync("https://translate.google.com/").Result;
 
@@ -31,7 +31,13 @@ using Newtonsoft.Json.Linq;
 // получаем данные про свой аккаунт
 // string contentObj = hc.GetStringAsync("getme").Result;  // рез от 8 до 19 строки
 
-// JObject obj = JObject.Parse(contentObj);
+// """       
+// если не вводить: using Newtonsoft.Json.Linq;  
+// то запись выглядела бы твк:       
+//  JObject obj = Newtonsoft.Json.Linq.JObject.Parse(contentObj);
+// """
+// JObject obj = JObject.Parse(contentObj); 
+
 
 // System.Console.WriteLine(obj["ok"]);
 // System.Console.WriteLine($"first_name = {obj["result"]["first_name"]}");
